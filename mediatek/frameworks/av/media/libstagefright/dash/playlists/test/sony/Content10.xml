@@ -33,13 +33,13 @@
         <BaseURL>Audio5.m4a</BaseURL>
       </Representation>
     </AdaptationSet>
-    <AdaptationSet  id="4" group="3" contentType="text" mimeType="text/ttml+xml" codecs="smtt" par="16:9" sar="1:1" lang="en">
+    <AdaptationSet  id="4" group="3" contentType="text" mimeType="application/octet-stream" codecs="smtt" par="16:9" sar="1:1" lang="en">
       <Role schemeIdUri="urn:mpeg:dash:role:2011" value="subtitle"/>
       <Representation id="4_1" bandwidth="0" width="640" height="360">
         <BaseURL>Subtitle50.m4t</BaseURL>
       </Representation>
     </AdaptationSet>
-    <AdaptationSet  id="5" group="3" contentType="image" mimeType="application/vnd.sony.m4t" codecs="smtt" par="16:9" sar="1:1" lang="ja">
+    <AdaptationSet  id="5" group="3" contentType="image" mimeType="application/octet-stream" codecs="smtt" par="16:9" sar="1:1" lang="ja">
       <Role schemeIdUri="http://xmlns.sony.net/metadata/mpeg/dash/role/2012" value="forcedSubtitle"/>
       <Representation id="5_1" bandwidth="188438" width="640" height="360">
         <BaseURL>Subtitle56.m4t</BaseURL>
