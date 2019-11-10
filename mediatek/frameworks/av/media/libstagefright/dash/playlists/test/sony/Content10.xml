@@ -33,7 +33,7 @@
         <BaseURL>Audio5.m4a</BaseURL>
       </Representation>
     </AdaptationSet>
-    <AdaptationSet  id="4" group="3" contentType="text" mimeType="application/ttml+xml" codecs="smtt" par="16:9" sar="1:1" lang="en">
+    <AdaptationSet  id="4" group="3" contentType="text" mimeType="application/ttml+xl" codecs="smtt" par="16:9" sar="1:1" lang="en">
       <Role schemeIdUri="urn:mpeg:dash:role:2011" value="subtitle"/>
       <Representation id="4_1" bandwidth="0" width="640" height="360">
         <BaseURL>Subtitle50.m4t</BaseURL>
